@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guía de compra para relojes inteligentes</title>
+    <description>En este blog podrás encontrar información de utilidad para decidir que reloj inteligente comprar. Comparativas, noticias, análisis,  y lugares de compra con los mejores precios.
+</description>
+    <link>http://comprarelojinteligente.es/</link>
+    <atom:link href="http://comprarelojinteligente.es/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Feb 2015 19:02:20 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2015 19:02:20 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Bienvenido a CompraRelojInteligente.es!</title>
+        <description>&lt;p&gt;Bienvenido. En este blog intentaremos arrojar luz al mercado de los relojes inteligentes.
+Comparativas, comentarios, enlaces a videos y precios mas baratos será el contenido de este blog.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Feb 2015 11:59:26 +0100</pubDate>
+        <link>http://comprarelojinteligente.es/blog/2015/02/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://comprarelojinteligente.es/blog/2015/02/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
