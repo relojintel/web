@@ -142,6 +142,35 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.image h2 span.spacer {
+  padding: 0 0px; }
+
+.image h2 span {
+  color: white;
+  font: bold 24px/47px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: black;
+  /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px; }
+
+.image {
+  position: relative;
+  width: 100%;
+  /* for IE 6 */ }
+
+.precio {
+  top: 200px !important; }
+
+.image h2 {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  width: 100%; }
+
+.image a {
+  color: white; }
+
 /**
  * Site header
  */
